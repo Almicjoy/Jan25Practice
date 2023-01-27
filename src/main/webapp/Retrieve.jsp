@@ -6,7 +6,7 @@
 <head>
 	<meta charset="ISO-8859-1">
 	<title>Employee Registration</title>
-	<link href="http://localhost:8080/batch64Dynamic/css/bootstrap.css" rel="stylesheet">
+	<link href="http://localhost:8080/Jan25Practice/css/bootstrap.css" rel="stylesheet">
 </head>
 <body>
 	<div class="container">
